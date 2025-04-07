@@ -1,0 +1,2 @@
+#python3  pacman.py -p ReflexAgent -k 2
+python3  pacman.py -p ReflexAgent -k 2 -t -n 10
